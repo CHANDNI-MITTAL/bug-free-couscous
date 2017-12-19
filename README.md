@@ -1,3 +1,3 @@
 # bug-free-couscous
 basic repository
-edit the repositroy ae syou wish
+edit the repositroy as you wish
